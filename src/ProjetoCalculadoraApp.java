@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class ProjetoCalculadoraApp {
+public class Calculadora {
     public static void main(String[] args) {
 
 
